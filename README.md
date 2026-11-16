@@ -25,9 +25,10 @@ De Arduino verwerkt de gegevens van de sensoren en stuurt de motoren aan. Op bas
 We verdelen het project in verschillende taken:
 - Onderdelen verzamelen
 - Elektronica aansluiten
-- Arduino programmeren
+- Arduino programmeren klaar maar nog niet getest
 - Sensoren testen
 - De auto testen en verbeteren
+  
 
 ## Team
 Dit project wordt uitgevoerd als groepsproject.
