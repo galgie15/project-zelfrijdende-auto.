@@ -20,7 +20,7 @@ Het doel is om een auto te ontwikkelen die zelfstandig een parcours kan volgen e
 
 ## Werking
 De Arduino verwerkt de gegevens van de sensoren en stuurt de motoren aan. Op basis van de gemeten waarden kan de auto beslissen welke richting hij moet rijden.
-1) auto moet nu alleen naar voor te kunnen rijden
+1) auto moet nu alleen naar voor te kunnen rijden: code gemaakt maar moet nog getest worden
 
 ## Planning
 We verdelen het project in verschillende taken:
