@@ -23,7 +23,7 @@ De Arduino verwerkt de gegevens van de sensoren en stuurt de motoren aan. Op bas
 
 ## Planning
 We verdelen het project in verschillende taken:
-- Onderdelen verzamelen
+- Onderdelen verzamelen klaar
 - Elektronica aansluiten
 - Arduino programmeren klaar maar nog niet getest
 - Sensoren testen
